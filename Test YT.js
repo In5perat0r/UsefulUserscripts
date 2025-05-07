@@ -12,6 +12,5 @@
 (function() {
     'use strict';
 
-    console.log('CC');
     // Your code here...
 })();
