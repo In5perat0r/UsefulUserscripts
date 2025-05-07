@@ -12,6 +12,6 @@
 (function() {
     'use strict';
 
-    console.log('Was ist das!');
+    console.log('TTT');
     // Your code here...
 })();
