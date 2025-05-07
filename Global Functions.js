@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Global Functions
 // @namespace    none
-// @version      1.0
+// @version      1.1
 // @description  none
 // @author       In5perat0r
 // @match        *://*/*
