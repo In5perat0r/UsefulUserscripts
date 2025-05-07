@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Searchbar Background
 // @namespace    http://tampermonkey.net/
-// @version      2025-05-07
+// @version      1.0
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.google.com/*
