@@ -12,5 +12,6 @@
 (function() {
     'use strict';
 
+    console.log('Test');
     // Your code here...
 })();
