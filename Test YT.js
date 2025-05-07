@@ -12,6 +12,6 @@
 (function() {
     'use strict';
 
-    console.log('Base');
+    console.log('CC');
     // Your code here...
 })();
