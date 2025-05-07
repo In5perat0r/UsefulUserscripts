@@ -12,5 +12,6 @@
 (function() {
     'use strict';
 
+    console.log('Was ist das!');
     // Your code here...
 })();
