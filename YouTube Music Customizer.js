@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube Music Customizer
+// @name         YouTube Music HSL Rainbow Customizer
 // @namespace    none
 // @version      1.5
 // @description  none
