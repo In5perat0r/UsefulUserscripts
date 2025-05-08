@@ -14,6 +14,6 @@
 (function() {
     'use strict';
 
-    console.log('TTT');
+    console.log('New Message');
     // Your code here...
 })();
