@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Set Own Userstyle
 // @namespace    none
-// @version      1.0
+// @version      1.5
 // @description  none
-// @author       none
+// @author       In5perat0r
 // @match        https://chatgpt.com/*
 // @match        https://chatgpt.com/c/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com

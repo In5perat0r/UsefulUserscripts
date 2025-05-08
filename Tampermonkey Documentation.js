@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tampermonkey Documentation
 // @namespace    none
-// @version      1.0
+// @version      1.5
 // @description  none
 // @author       In5perat0r
 // @match        *://*/*

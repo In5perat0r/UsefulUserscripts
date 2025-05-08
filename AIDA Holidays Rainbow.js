@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AIDA Holidays Rainbow
 // @namespace    none
-// @version      1.0
+// @version      1.5
 // @description  none
 // @author       In5perat0r
 // @match        http://r58-aida/*
@@ -28,6 +28,6 @@
     83.3333333333334% {background-color: hsl(300,100%,50%);}
     100% {background-color: hsl(360,100%,50%);}
 }
-`
-    GM_addStyle(css)
+`;
+    GM_addStyle(css);
 })();
