@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Temp Test
 // @namespace    none
-// @version      1.7
+// @version      1.8
 // @description  none
 // @author       In5perat0r
 // @match        https://www.youtube.com/
@@ -14,6 +14,6 @@
 (function() {
     'use strict';
 
-    console.log('New Message');
+    console.log('Customize');
     // Your code here...
 })();
