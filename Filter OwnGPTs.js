@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Filter OwnGPTs
 // @namespace    none
-// @version      1.5
+// @version      1.6
 // @description  none
 // @author       In5perat0r
 // @match        https://chatgpt.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com
+// @updateURL    https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Filter%20OwnGPTs.js
+// @downloadURL  https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Filter%20OwnGPTs.js
 // @grant        GM_registerMenuCommand
 // @grant        GM_addStyle
 // @run-at       document-end
@@ -37,5 +39,5 @@
 
     css()
 
-    GM_registerMenuCommand('Test', css);
+    GM_registerMenuCommand('Hide Non-Default GPT Chats', css);
 })();

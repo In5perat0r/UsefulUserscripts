@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Everywhere Search
 // @namespace    none
-// @version      1.5
+// @version      1.6
 // @description  none
 // @author       In5perat0r
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
+// @updateURL    https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Everywhere%20Search.js
+// @downloadURL  https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Everywhere%20Search.js
 // @grant        GM_registerMenuCommand
 // ==/UserScript==
 

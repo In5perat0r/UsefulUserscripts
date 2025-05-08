@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         AIDA Holidays Rainbow
 // @namespace    none
-// @version      1.5
+// @version      1.6
 // @description  none
 // @author       In5perat0r
 // @match        http://r58-aida/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=www.aida-orga.de
+// @updateURL    https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/AIDA%20Holidays%20Rainbow.js
+// @downloadURL  https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/AIDA%20Holidays%20Rainbow.js
 // @grant        GM_addStyle
 // ==/UserScript==
 

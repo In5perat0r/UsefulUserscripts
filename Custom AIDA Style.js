@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Custom AIDA Style
 // @namespace    none
-// @version      1.5
+// @version      1.6
 // @description  none
 // @author       In5perat0r
 // @match        http://r58-aida/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=www.aida-orga.de
+// @updateURL    https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Custom%20AIDA%20Style.js
+// @downloadURL  https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Custom%20AIDA%20Style.js
 // @grant        GM_addStyle
 // ==/UserScript==
 

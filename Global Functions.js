@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Global Functions
 // @namespace    none
-// @version      1.5
+// @version      1.6
 // @description  none
 // @author       In5perat0r
 // @match        *://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @updateURL    https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Global%20Functions.js
+// @downloadURL  https://raw.githubusercontent.com/In5perat0r/UsefulUserscripts/refs/heads/main/Global%20Functions.js
 // @grant        none
 // ==/UserScript==
 
