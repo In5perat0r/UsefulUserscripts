@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Music HSL Rainbow Customizer
 // @namespace    none
-// @version      1.5
+// @version      1.6
 // @description  none
 // @author       In5perat0r
 // @match        https://music.youtube.com/watch?v=yUZeZNxiD-M&list=PLuVt-kUON6LguiFNkpP_yo666cbuWUP6q
