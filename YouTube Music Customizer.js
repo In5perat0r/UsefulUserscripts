@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Music HSL Rainbow Customizer
 // @namespace    none
-// @version      1.6
+// @version      1.7
 // @description  none
 // @author       In5perat0r
 // @match        https://music.youtube.com/watch?v=yUZeZNxiD-M&list=PLuVt-kUON6LguiFNkpP_yo666cbuWUP6q
@@ -21,5 +21,6 @@
 ytmusic-player-bar[enable-cairo-refresh-signature-moments-web] #progress-bar.ytmusic-player-bar {
 }
 `;
+    // Add CSS
     GM_addStyle(css)
 })();
