@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Filter OwnGPTs
 // @namespace    none
-// @version      1.8
+// @version      1.9
 // @description  none
 // @author       In5perat0r
 // @match        https://chatgpt.com/*
@@ -23,7 +23,7 @@
     }
 
     function getData() {
-        let data = Array.from(document.querySelectorAll('[class="group/sidebar"] > div > *:not([tabindex]) > a')).map(x => x.getAttribute('href'));
+        let data = Array.from(document.querySelectorAll('[class="group/sidebar"] > div > *:not([tabindex]):not([data-state]) > a')).map(x => x.getAttribute('href'));
         console.log(data);
         return data.map(ref => createHide(ref)).join('\n');
     }
