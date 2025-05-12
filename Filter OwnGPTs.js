@@ -32,7 +32,7 @@
         setTimeout(function(){
             let sty = document.createElement('style');
             let styStr = getData();
-            sty.innerText = styStr;
+            sty.innerHTML = styStr;
             document.head.appendChild(sty);
         }, 200);
     }
