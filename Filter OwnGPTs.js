@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Filter OwnGPTs
 // @namespace    none
-// @version      1.7
+// @version      1.8
 // @description  none
 // @author       In5perat0r
 // @match        https://chatgpt.com/*
@@ -34,7 +34,7 @@
             let styStr = getData();
             sty.innerHTML = styStr;
             document.head.appendChild(sty);
-        }, 200);
+        }, 300);
     }
 
     css()
