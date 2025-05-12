@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Filter OwnGPTs
 // @namespace    none
-// @version      1.6
+// @version      1.7
 // @description  none
 // @author       In5perat0r
 // @match        https://chatgpt.com/*
